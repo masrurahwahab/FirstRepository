@@ -83,31 +83,6 @@
 //     Console.WriteLine($"invalid input");
 // }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 7. Write a program to calculate the smallest of three numbers entered by a user.
 
 // Console.WriteLine("Enter your first number");
